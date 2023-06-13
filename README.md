@@ -1,7 +1,7 @@
 <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 <h1 align="center">Hi, I'm Hien</h1>
 
-- ✍ I’m currently studying on [Academy of Cryptography Technique Vietnam](https://actvn.edu.vn/) (KMA).
+- I’m currently studying on [Academy of Cryptography Technique Vietnam](https://actvn.edu.vn/) (KMA).
 
 <br />
 
